@@ -117,3 +117,109 @@ function reverse(a){
   console.log(reverse(156));
   exports.reverse = reverse
 
+
+//   BASIC CLASS QUATIONS.
+
+//1. BASIC ARITHMETIC 
+// ANSWER.
+function basicArithmetic(num1, num2) {
+    //Write your code 
+    const y = num1 + num2;
+    const x = num1 - num2;
+    const w = num1 * num2;
+    const v = Math.floor(num1 / num2);
+    const u = num1 % num2;
+    return (y +" "+x+" "+w+" "+v+" "+u);
+  }
+  console.log(basicArithmetic(2,10));
+  exports.basicArithmetic = basicArithmetic;
+
+//2. NUMBER SQUARE.
+// ANSWER.
+function numberSquare(num) {
+    //Write your code here
+    let power = num*num;
+    return power;
+  }
+  console.log(numberSquare(2));
+  exports.numberSquare = numberSquare;
+
+//3.NUMBER QUATIENT.
+// ANSWER.
+function quotient(num1, num2) {
+    let div = Math.floor (num1 / num2);
+    return div;
+  }
+  console.log(quotient(5,2));
+  exports.quotient = quotient
+
+// 4.POWER
+// ANSWER.
+function power(num, exp) {
+    let power1 = num**exp;
+    return power1;
+  }
+  console.log(power(2, 6));
+  exports.power = power
+
+//5.DECIMAL NUMBER.
+// ANSWER.
+function decimal(num1, num2){
+    let des = num1 / num2 - Math.floor(num1/num2);
+    return des;
+    
+  }
+  console.log(decimal(3,2));
+  exports.decimal = decimal
+
+//6.AVERAGE NUMBERS.
+// ANSWER.
+function average(a, b, c, d, e){
+    let avg = (a+b+c+d+e)/5;
+    return avg;
+    
+  }
+  console.log(average(60,65,72,81,90));
+  exports.average = average
+
+//7.PROFITS.
+// ANSWER.
+function profit(costPrice, sellingPrice){
+    let net = sellingPrice - costPrice;
+    return net;
+    
+  }
+  console.log(profit(100, 50));
+  exports.profit = profit
+
+// 8.LAST DIGITS.
+// ANSWER.
+function lastDigit(num){
+    let last = num %10;
+    return last;
+    
+  }
+  console.log(lastDigit(123));
+  exports.lastDigit = lastDigit
+
+//9.FIRST AND LAST NUMBER.
+// ANSWER.
+function firstAndLast(num){
+    let first =Math.floor(num/100);
+    let last = num%10;
+    return (first+" "+last);
+    
+  }
+  console.log(firstAndLast(123));
+  exports.firstAndLast = firstAndLast;
+
+//10.TWO DIGITS REVERS.
+// ANSWER.
+function twoDigitReverse(num) {
+    let secound = num%10;
+    let first = Math.floor(num/10);
+    let reverse = ((secound*10)+first);
+    return reverse;
+  }
+  console.log(twoDigitReverse(32));
+  exports.twoDigitReverse = twoDigitReverse;
