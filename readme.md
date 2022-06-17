@@ -12,6 +12,8 @@ Input are provided as functional parameter.
 Output:
 Return comma seperated quotient and remainder.
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 2. `Take a number and find its cube.`
@@ -19,6 +21,8 @@ Return comma seperated quotient and remainder.
 Input: Input is provided as Functional Parameter.
 
 Output: Return cube of the number.
+
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
 
 ---
 
@@ -30,6 +34,8 @@ Input: Input is provided as functional parameter.
 
 Output: Return the answer.
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 4. `Fahrenheit to Celsius`
@@ -39,6 +45,8 @@ Output: Return the answer.
 Input: Input is provided as functional parameter.
 
 Output: Return the answer
+
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
 
 ---
 
@@ -52,6 +60,8 @@ Input numbers are provided as functional Parameters
 Output:
 Return comma seperated values.
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 6.` Average Salary`
@@ -62,6 +72,8 @@ Input: Input is provided as functional parameter.
 
 Output: Return the average salary.
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 7. `Find Profit`
@@ -70,6 +82,8 @@ Output: Return the average salary.
 
 Input:
 Input is provided as functional parameter.
+
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
 
 ---
 
@@ -81,6 +95,8 @@ Input: Input is provided as functional parameter.
 
 Output: Return the output
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 9. `Sum Of First and Last Digit of a Number`
@@ -91,6 +107,8 @@ Input: Input is provided as functional parameter.
 
 Output: Return the sum.
 
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
+
 ---
 
 10. `Reverse Of a Number`
@@ -100,3 +118,5 @@ Output: Return the sum.
 Input: Input is provided as functional parameter.
 
 Output: Return comma seperated value
+
+##[All Anser `cleck_here`](https://github.com/Madanparta/JS-Practising-Basic-Questions-Arithmetic-/commit/2af5d466093f4df85cfc471f3534096226c0225e)
